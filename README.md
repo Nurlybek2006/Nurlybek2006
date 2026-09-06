@@ -1,28 +1,29 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=27&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+Nurlibek+Sarsenbekuly;Backend+%26+Full-Stack+Developer;Building+Systems%2C+APIs+%26+Real-Time+Apps;Future+Game+Developer+%F0%9F%8E%AE;Turning+Ideas+Into+Code+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=1100&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Nurlibek+Sarsenbekuly;Backend+%26+Full-Stack+Developer;Building+APIs%2C+Systems+%26+Real-Time+Apps;Turning+Ideas+Into+Real+Software+%E2%9A%A1;Future+Game+Developer+%F0%9F%8E%AE" alt="Typing SVG" />
 
-<br/>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=Nurlybek2006&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Nurlybek2006&label=PROFILE%20VIEWS&color=238636&style=for-the-badge" alt="Profile Views"/>
 
-<br/><br/>
+<br><br>
 
 <a href="https://github.com/Nurlybek2006">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-# 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
 ```typescript
 const nurlibek = {
     name: "Nurlibek Sarsenbekuly",
     location: "Kazakhstan 🇰🇿",
-    education: "IT Student @ Abai University",
+    university: "Abai University",
+    field: "Information Technology",
 
     roles: [
         "Backend Developer",
@@ -30,223 +31,385 @@ const nurlibek = {
         "Future Game Developer"
     ],
 
-    currentFocus: [
-        "Node.js",
-        "Express.js",
+    currentlyLearning: [
+        "Backend Architecture",
+        "Node.js & Express.js",
         "TypeScript",
-        "PostgreSQL",
-        "Prisma ORM",
-        "Redis",
-        "React"
+        "PostgreSQL & Prisma",
+        "Redis & BullMQ",
+        "Socket.IO",
+        "React",
+        "Docker"
     ],
 
     interests: [
-        "Backend Architecture",
-        "Real-Time Systems",
+        "Software Engineering",
+        "Backend Systems",
         "Game Development",
         "UI Design",
         "Automation"
     ],
 
-    philosophy: "Don't just write code. Build systems."
+    mindset: "Don't just write code. Build systems."
 };
+```
 
-I'm Nurlibek, an IT student and developer from Kazakhstan 🇰🇿, focused on understanding how real software systems work — not just how to make them run.
+<p align="center">
+I'm an <b>IT student and developer from Kazakhstan 🇰🇿</b> who enjoys understanding how software works behind the interface.
+</p>
 
-I enjoy designing backend architectures, building REST APIs, working with databases, authentication, real-time communication, queues, background jobs, and turning ideas into complete applications.
+<p align="center">
+I build backend systems, REST APIs, databases, authentication, real-time features and full-stack applications while continuously improving my understanding of software architecture.
+</p>
 
-My goal is bigger than simply becoming someone who writes code.
+<p align="center">
+<b>My goal isn't just to write code — it's to become an engineer capable of turning ambitious ideas into reliable, scalable software.</b>
+</p>
 
-I want to become an engineer capable of turning ambitious ideas into real, scalable software.
+<p align="center">
+And one day, I want to build <b>games and digital worlds of my own. 🎮</b>
+</p>
 
-And one day — build games and digital worlds of my own. 🎮
+---
 
-⚡ What I'm Building Toward
-🧠 Deep understanding of Backend Engineering & Software Architecture
-⚙️ Building scalable REST APIs and server-side systems
-🗄️ Designing reliable systems with PostgreSQL & Prisma
-⚡ Exploring Redis, BullMQ and background processing
-🔐 Implementing authentication, authorization and API security
-🔄 Building real-time applications with Socket.IO
-⚛️ Connecting powerful backends with modern React frontends
-🐳 Learning containerization and deployment with Docker
-🎮 Long-term goal: Game Development
-🚀 Turning personal projects into production-level applications
-🛠️ Tech Stack
-💻 Languages
+<h2 align="center">⚡ What I'm Focused On</h2>
 
-
-
-
-
-
-
-
-
-
-🎨 Frontend
-
-
-
-
-
-
-
-
-⚙️ Backend
-
-
-
-
-
-
-
-
-
-
-🗄️ Database & Data
-
-
-
-
-
-
-
-
-🔄 Queues & Background Jobs
-
-
-
-
-🔐 Security & API
-
-
-
-
-
-
-
-
-
-
-🧪 Testing & API Documentation
-
-
-
-
-
-
-🐳 DevOps & Tools
-
-
-
-
-
-
-🧩 Engineering Concepts
-REST API                    █████████████████░░░
-Backend Architecture        ████████████████░░░░
-PostgreSQL                  ███████████████░░░░░
-Authentication & JWT        ███████████████░░░░░
-Prisma ORM                  ███████████████░░░░░
-React                       ████████████░░░░░░░░
-Redis & BullMQ              ███████████░░░░░░░░░
-Docker                      █████████░░░░░░░░░░░
-Game Development            ██████░░░░░░░░░░░░░░
-Always learning. Always building. Always improving.
-
-🏗️ How I Think About Software
-Idea
-  ↓
-Design
-  ↓
-Architecture
-  ↓
-Database
-  ↓
-Backend API
-  ↓
-Security
-  ↓
-Frontend
-  ↓
-Testing
-  ↓
-Deployment
-  ↓
-Real Product 🚀
-
-I don't want to memorize technologies.
-
-I want to understand why they exist, how they work together, and how to design systems that remain reliable as they grow.
-
-🚀 Current Journey
-🧠 Smart Task Management System
-
-Building a full-stack task management system while exploring real backend engineering concepts.
-
-⚙️ Backend
-
-Node.js Express.js TypeScript PostgreSQL Prisma
-
-🏗️ Infrastructure
-
-Redis BullMQ Docker
-
-🔐 Security
-
-JWT bcrypt Helmet CORS Rate Limiting
-
-🔄 Real-Time
-
-Socket.IO
-
-🧪 API & Testing
-
-Swagger Jest Supertest
-
-The goal isn't just to finish another project.
-
-The goal is to understand how production-grade applications are designed from the inside out.
-
-
-
-
-🎯 My Long-Term Vision
-Backend Engineering
-        │
-        ├── Scalable Systems
-        ├── Databases
-        ├── Real-Time Applications
-        ├── Software Architecture
-        └── Cloud & DevOps
-                 │
-                 ▼
-          Software Engineer
-                 │
-                 ▼
-          Game Development 🎮
-                 │
-                 ▼
-        Build Something Great.
-Learn deeply. Build relentlessly. Create what doesn't exist yet.
-
-
-
-📊 GitHub Analytics
-<div align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nurlybek2006&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurlybek2006&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" /> </div> <br/> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nurlybek2006&theme=tokyonight&hide_border=true" alt="GitHub Streak" /> </div>
-🐍 Contribution Activity
-<div align="center"> <img src="https://raw.githubusercontent.com/Nurlybek2006/Nurlybek2006/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" /> </div>
-💭 Developer Mindset
-<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote" /> </div>
 <div align="center">
-⚡ Code is a tool. Engineering is the mindset.
-Building • Learning • Improving
 
-🇰🇿 Kazakhstan
+<table>
+<tr>
+<td>
 
-<br/>
+🧠 **Backend Engineering**
 
-⭐ From Nurlibek
+Learning how real backend systems are designed, structured and scaled.
 
-</div> ```
+</td>
+<td>
+
+⚙️ **Software Architecture**
+
+Understanding how services, databases, APIs and infrastructure work together.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🔄 **Real-Time Systems**
+
+Building real-time communication with Socket.IO and event-driven systems.
+
+</td>
+<td>
+
+🗄️ **Databases**
+
+Working with PostgreSQL, Prisma ORM and reliable data models.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+⚡ **Background Processing**
+
+Exploring Redis, BullMQ, queues, schedulers and background jobs.
+
+</td>
+<td>
+
+🎮 **Game Development**
+
+My long-term goal is to combine engineering and creativity to build games.
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<h3 align="center">💻 Languages</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+</p>
+
+<h3 align="center">🎨 Frontend</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+
+</p>
+
+<h3 align="center">⚙️ Backend</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Socket.IO-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+</p>
+
+<h3 align="center">🗄️ Database & Data</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white"/>
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+</p>
+
+<h3 align="center">⚡ Queues & Background Jobs</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/BullMQ-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+<img src="https://img.shields.io/badge/Background_Jobs-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Schedulers-4285F4?style=for-the-badge"/>
+
+</p>
+
+<h3 align="center">🔐 Security</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/bcrypt-4A154B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Helmet-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CORS-005571?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Rate_Limiting-FF6B6B?style=for-the-badge"/>
+
+</p>
+
+<h3 align="center">🧪 Testing & API Tools</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supertest-141414?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+</p>
+
+<h3 align="center">🐳 DevOps & Development Tools</h3>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+
+</p>
+
+---
+
+<h2 align="center">🚀 Current Project</h2>
+
+<div align="center">
+
+### 🧠 Smart Task Management System
+
+*A full-stack project built to explore real-world backend engineering.*
+
+</div>
+
+<table align="center">
+
+<tr>
+<td><b>⚙️ Backend</b></td>
+<td>Node.js · Express.js · TypeScript</td>
+</tr>
+
+<tr>
+<td><b>🗄️ Database</b></td>
+<td>PostgreSQL · Prisma ORM</td>
+</tr>
+
+<tr>
+<td><b>⚡ Infrastructure</b></td>
+<td>Redis · BullMQ · Docker</td>
+</tr>
+
+<tr>
+<td><b>🔐 Security</b></td>
+<td>JWT · bcrypt · Helmet · CORS · Rate Limiting</td>
+</tr>
+
+<tr>
+<td><b>🔄 Real-Time</b></td>
+<td>Socket.IO</td>
+</tr>
+
+<tr>
+<td><b>📚 API Docs</b></td>
+<td>Swagger / OpenAPI</td>
+</tr>
+
+<tr>
+<td><b>🧪 Testing</b></td>
+<td>Jest · Supertest</td>
+</tr>
+
+</table>
+
+<br>
+
+<p align="center">
+The goal isn't just to finish another application.
+</p>
+
+<p align="center">
+<b>The goal is to understand how production-level systems are designed from the inside out.</b>
+</p>
+
+---
+
+<h2 align="center">🧠 Engineering Mindset</h2>
+
+```text
+                    IDEA
+                     │
+                     ▼
+                  DESIGN
+                     │
+                     ▼
+                ARCHITECTURE
+                     │
+          ┌──────────┼──────────┐
+          ▼          ▼          ▼
+       DATABASE   BACKEND     SECURITY
+          │          │          │
+          └──────────┼──────────┘
+                     ▼
+                    API
+                     │
+                     ▼
+                  FRONTEND
+                     │
+                     ▼
+                   TESTING
+                     │
+                     ▼
+                 DEPLOYMENT
+                     │
+                     ▼
+                REAL PRODUCT 🚀
+```
+
+<p align="center">
+I don't want to simply memorize frameworks and libraries.
+</p>
+
+<p align="center">
+I want to understand <b>why technologies exist, how they work together, and how to build systems that remain reliable as they grow.</b>
+</p>
+
+---
+
+<h2 align="center">🎯 Long-Term Vision</h2>
+
+<div align="center">
+
+```text
+              BACKEND ENGINEERING
+                       │
+          ┌────────────┼────────────┐
+          │            │            │
+          ▼            ▼            ▼
+      DATABASES     SYSTEMS      REAL-TIME
+          │            │            │
+          └────────────┼────────────┘
+                       ▼
+             SOFTWARE ARCHITECTURE
+                       │
+                       ▼
+               SOFTWARE ENGINEER
+                       │
+                       ▼
+                GAME DEVELOPMENT 🎮
+                       │
+                       ▼
+              BUILD SOMETHING GREAT
+```
+
+### Learn deeply. Build relentlessly. Create what doesn't exist yet.
+
+</div>
+
+---
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nurlybek2006&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nurlybek2006&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nurlybek2006&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<h2 align="center">💭 Developer Mindset</h2>
+
+<div align="center">
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Code is a tool. Engineering is the mindset.
+
+**BUILDING · LEARNING · IMPROVING**
+
+<br>
+
+🇰🇿 **KAZAKHSTAN**
+
+<br><br>
+
+<a href="https://github.com/Nurlybek2006">
+<img src="https://img.shields.io/badge/Follow_my_journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+⭐ **From [Nurlibek](https://github.com/Nurlybek2006)**
+
+</div>
