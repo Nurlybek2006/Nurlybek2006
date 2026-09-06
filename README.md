@@ -18,58 +18,57 @@
 
 <h2 align="center">👨‍💻 About Me</h2>
 
-```typescript
-const nurlibek = {
-    name: "Nurlibek Sarsenbekuly",
-    location: "Kazakhstan 🇰🇿",
-    university: "Abai University",
-    field: "Information Technology",
+<div align="center">
 
-    roles: [
-        "Backend Developer",
-        "Full-Stack Developer",
-        "Future Game Developer"
-    ],
+### Hi, I'm Nurlibek Sarsenbekuly 👋
 
-    currentlyLearning: [
-        "Backend Architecture",
-        "Node.js & Express.js",
-        "TypeScript",
-        "PostgreSQL & Prisma",
-        "Redis & BullMQ",
-        "Socket.IO",
-        "React",
-        "Docker"
-    ],
+**IT Student @ Abai University**  
+**Backend & Full-Stack Developer**  
+**Future Game Developer 🎮**
 
-    interests: [
-        "Software Engineering",
-        "Backend Systems",
-        "Game Development",
-        "UI Design",
-        "Automation"
-    ],
+📍 Kazakhstan 🇰🇿
 
-    mindset: "Don't just write code. Build systems."
-};
-```
+</div>
+
+<br>
 
 <p align="center">
-I'm an <b>IT student and developer from Kazakhstan 🇰🇿</b> who enjoys understanding how software works behind the interface.
+I'm an <b>IT student and developer from Kazakhstan</b> focused on understanding how real software systems work behind the interface.
 </p>
 
 <p align="center">
-I build backend systems, REST APIs, databases, authentication, real-time features and full-stack applications while continuously improving my understanding of software architecture.
+I enjoy building <b>backend systems, REST APIs, databases, authentication, real-time features and full-stack applications</b>.
 </p>
 
 <p align="center">
-<b>My goal isn't just to write code — it's to become an engineer capable of turning ambitious ideas into reliable, scalable software.</b>
+Currently, I'm improving my skills in <b>Node.js, Express.js, TypeScript, PostgreSQL, Prisma ORM, Redis, BullMQ, Socket.IO, React and Docker</b>.
+</p>
+
+<p align="center">
+My main interests are <b>Backend Engineering, Software Architecture, Real-Time Systems, UI Design, Automation and Game Development</b>.
+</p>
+
+<br>
+
+<div align="center">
+
+> ### ⚡ Don't just write code. Build systems.
+
+</div>
+
+<br>
+
+<p align="center">
+<b>My goal isn't just to become a programmer.</b>
+</p>
+
+<p align="center">
+I want to become a software engineer capable of turning ambitious ideas into <b>real, reliable and scalable products</b>.
 </p>
 
 <p align="center">
 And one day, I want to build <b>games and digital worlds of my own. 🎮</b>
 </p>
-
 ---
 
 <h2 align="center">⚡ What I'm Focused On</h2>
