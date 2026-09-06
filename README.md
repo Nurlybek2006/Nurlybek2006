@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=1100&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Nurlibek+Sarsenbekuly;Backend+%26+Full-Stack+Developer;Building+APIs%2C+Systems+%26+Real-Time+Apps;Turning+Ideas+Into+Real+Software+%E2%9A%A1;Future+Game+Developer+%F0%9F%8E%AE" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=1100&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Nurlybek+Sarsenbekuly;Backend+%26+Full-Stack+Developer;Building+APIs%2C+Systems+%26+Real-Time+Apps;Turning+Ideas+Into+Real+Software+%E2%9A%A1;Future+Game+Developer+%F0%9F%8E%AE" alt="Typing SVG" />
 
 <br>
 
@@ -20,11 +20,10 @@
 
 <div align="center">
 
-### Hi, I'm Nurlibek Sarsenbekuly 👋
+### Hi, I'm Nurlybek Sarsenbekuly 👋
 
 **IT Student @ Abai University**  
 **Backend & Full-Stack Developer**  
-**Future Game Developer 🎮**
 
 📍 Kazakhstan 🇰🇿
 
@@ -141,8 +140,6 @@ My long-term goal is to combine engineering and creativity to build games.
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 
 </p>
 
@@ -409,6 +406,6 @@ I want to understand <b>why technologies exist, how they work together, and how 
 
 <br><br>
 
-⭐ **From [Nurlibek](https://github.com/Nurlybek2006)**
+⭐ **From [Nurlybek](https://github.com/Nurlybek2006)**
 
 </div>
