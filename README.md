@@ -49,85 +49,6 @@ My main interests are <b>Backend Engineering, Software Architecture, Real-Time S
 
 <br>
 
-<div align="center">
-
-> ### ⚡ Don't just write code. Build systems.
-
-</div>
-
-<br>
-
-<p align="center">
-<b>My goal isn't just to become a programmer.</b>
-</p>
-
-<p align="center">
-I want to become a software engineer capable of turning ambitious ideas into <b>real, reliable and scalable products</b>.
-</p>
-
-<p align="center">
-And one day, I want to build <b>games and digital worlds of my own. 🎮</b>
-</p>
----
-
-<h2 align="center">⚡ What I'm Focused On</h2>
-
-<div align="center">
-
-<table>
-<tr>
-<td>
-
-🧠 **Backend Engineering**
-
-Learning how real backend systems are designed, structured and scaled.
-
-</td>
-<td>
-
-⚙️ **Software Architecture**
-
-Understanding how services, databases, APIs and infrastructure work together.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-🔄 **Real-Time Systems**
-
-Building real-time communication with Socket.IO and event-driven systems.
-
-</td>
-<td>
-
-🗄️ **Databases**
-
-Working with PostgreSQL, Prisma ORM and reliable data models.
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-⚡ **Background Processing**
-
-Exploring Redis, BullMQ, queues, schedulers and background jobs.
-
-</td>
-<td>
-
-🎮 **Exploring Game Development**
-
-Exploring game development as a creative direction alongside software engineering.
-
-</td>
-</tr>
-</table>
-
-</div>
 
 ---
 
@@ -220,6 +141,69 @@ Exploring game development as a creative direction alongside software engineerin
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
 </p>
+
+---
+
+<div align="center">
+<h2 align="center">⚡ What I'm Focused On</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+🧠 **Backend Engineering**
+
+Learning how real backend systems are designed, structured and scaled.
+
+</td>
+<td>
+
+⚙️ **Software Architecture**
+
+Understanding how services, databases, APIs and infrastructure work together.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+🔄 **Real-Time Systems**
+
+Building real-time communication with Socket.IO and event-driven systems.
+
+</td>
+<td>
+
+🗄️ **Databases**
+
+Working with PostgreSQL, Prisma ORM and reliable data models.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+⚡ **Background Processing**
+
+Exploring Redis, BullMQ, queues, schedulers and background jobs.
+
+</td>
+<td>
+
+🎮 **Exploring Game Development**
+
+Exploring game development as a creative direction alongside software engineering.
+
+</td>
+</tr>
+</table>
+
+</div>
+
 
 ---
 
