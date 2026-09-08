@@ -16,9 +16,9 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+<h2 align="left">👨‍💻 About Me</h2>
 
-<div align="center">
+<div align="left">
 
 ### Hi, I'm Nurlybek Sarsenbekuly 👋
 
@@ -31,19 +31,19 @@
 
 <br>
 
-<p align="center">
+<p align="left">
 I'm an <b>IT student and developer from Kazakhstan</b> focused on understanding how real software systems work behind the interface.
 </p>
 
-<p align="center">
+<p align="left">
 I enjoy building <b>backend systems, REST APIs, databases, authentication, real-time features and full-stack applications</b>.
 </p>
 
-<p align="center">
+<p align="left">
 Currently, I'm improving my skills in <b>Node.js, Express.js, TypeScript, PostgreSQL, Prisma ORM, Redis, BullMQ, Socket.IO, React and Docker</b>.
 </p>
 
-<p align="center">
+<p align="left">
 My main interests are <b>Backend Engineering, Software Architecture, Real-Time Systems, UI Design, Automation and Game Development</b>.
 </p>
 
