@@ -119,9 +119,9 @@ Exploring Redis, BullMQ, queues, schedulers and background jobs.
 </td>
 <td>
 
-🎮 **Game Development**
+🎮 **Exploring Game Development**
 
-My long-term goal is to combine engineering and creativity to build games.
+Exploring game development as a creative direction alongside software engineering.
 
 </td>
 </tr>
