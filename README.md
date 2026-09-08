@@ -11,6 +11,9 @@
 <a href="https://github.com/Nurlybek2006">
 <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+<a href="https://www.linkedin.com/in/nurlybek-sarsenbekuly-114a27251/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nurlybek-sarsenbekuly-114a27251/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nurlybek-sarsenbekuly-114a27251/"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 
 </div>
 
@@ -21,6 +24,7 @@
 <div align="left">
 
 ### Hi, I'm Nurlybek 👋
+
 </div>
 <p align="left">
 I'm an <b>IT student and developer from Kazakhstan</b> focused on understanding how real software systems work behind the interface.
@@ -39,7 +43,6 @@ My main interests are <b>Backend Engineering, Software Architecture, Real-Time S
 </p>
 
 <br>
-
 
 ---
 
@@ -195,7 +198,6 @@ Exploring game development as a creative direction alongside software engineerin
 
 </div>
 
-
 ---
 
 <h3 align="center">🚀 Current Project</h3>
@@ -204,7 +206,7 @@ Exploring game development as a creative direction alongside software engineerin
 
 ### 🧠 Smart Task Management System
 
-*A full-stack project built to explore real-world backend engineering.*
+_A full-stack project built to explore real-world backend engineering._
 
 </div>
 
