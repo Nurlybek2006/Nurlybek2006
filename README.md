@@ -16,21 +16,12 @@
 
 ---
 
-<h2 align="left">👨‍💻 About Me</h2>
+<h3 align="left">👨‍💻 About Me</h3>
 
 <div align="left">
 
-### Hi, I'm Nurlybek Sarsenbekuly 👋
-
-**IT Student @ Abai University**  
-**Backend & Full-Stack Developer**  
-
-📍 Kazakhstan 🇰🇿
-
+### Hi, I'm Nurlybek 👋
 </div>
-
-<br>
-
 <p align="left">
 I'm an <b>IT student and developer from Kazakhstan</b> focused on understanding how real software systems work behind the interface.
 </p>
@@ -52,9 +43,9 @@ My main interests are <b>Backend Engineering, Software Architecture, Real-Time S
 
 ---
 
-<h2 align="center">🛠️ Tech Stack</h2>
+<h3 align="center">🛠️ Tech Stack</h3>
 
-<h3 align="center">💻 Languages</h3>
+<h4 align="center">💻 Languages</h4>
 
 <p align="center">
 
@@ -64,7 +55,7 @@ My main interests are <b>Backend Engineering, Software Architecture, Real-Time S
 
 </p>
 
-<h3 align="center">🎨 Frontend</h3>
+<h4 align="center">🎨 Frontend</h4>
 
 <p align="center">
 
@@ -75,7 +66,7 @@ My main interests are <b>Backend Engineering, Software Architecture, Real-Time S
 
 </p>
 
-<h3 align="center">⚙️ Backend</h3>
+<h4 align="center">⚙️ Backend</h4>
 
 <p align="center">
 
@@ -87,7 +78,7 @@ My main interests are <b>Backend Engineering, Software Architecture, Real-Time S
 
 </p>
 
-<h3 align="center">🗄️ Database & Data</h3>
+<h4 align="center">🗄️ Database & Data</h4>
 
 <p align="center">
 
@@ -98,7 +89,7 @@ My main interests are <b>Backend Engineering, Software Architecture, Real-Time S
 
 </p>
 
-<h3 align="center">⚡ Queues & Background Jobs</h3>
+<h4 align="center">⚡ Queues & Background Jobs</h4>
 
 <p align="center">
 
@@ -108,7 +99,7 @@ My main interests are <b>Backend Engineering, Software Architecture, Real-Time S
 
 </p>
 
-<h3 align="center">🔐 Security</h3>
+<h4 align="center">🔐 Security</h4>
 
 <p align="center">
 
@@ -119,7 +110,7 @@ My main interests are <b>Backend Engineering, Software Architecture, Real-Time S
 
 </p>
 
-<h3 align="center">🧪 Testing & API Tools</h3>
+<h4 align="center">🧪 Testing & API Tools</h4>
 
 <p align="center">
 
@@ -130,7 +121,7 @@ My main interests are <b>Backend Engineering, Software Architecture, Real-Time S
 
 </p>
 
-<h3 align="center">🐳 DevOps & Development Tools</h3>
+<h4 align="center">🐳 DevOps & Development Tools</h4>
 
 <p align="center">
 
@@ -145,7 +136,7 @@ My main interests are <b>Backend Engineering, Software Architecture, Real-Time S
 ---
 
 <div align="center">
-<h2 align="center">⚡ What I'm Focused On</h2>
+<h3 align="center">⚡ What I'm Focused On</h3>
 
 <div align="center">
 
@@ -207,7 +198,7 @@ Exploring game development as a creative direction alongside software engineerin
 
 ---
 
-<h2 align="center">🚀 Current Project</h2>
+<h3 align="center">🚀 Current Project</h3>
 
 <div align="center">
 
@@ -268,7 +259,7 @@ The goal isn't just to finish another application.
 
 ---
 
-<h2 align="center">💭 Developer Mindset</h2>
+<h3 align="center">💭 Developer Mindset</h3>
 
 <div align="center">
 
