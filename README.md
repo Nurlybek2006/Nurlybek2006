@@ -271,21 +271,7 @@ The goal isn't just to finish another application.
 
 <div align="center">
 
-### ⚡ Code is a tool. Engineering is the mindset.
-
-**BUILDING · LEARNING · IMPROVING**
-
-<br>
-
-🇰🇿 **KAZAKHSTAN**
-
-<br><br>
-
-<a href="https://github.com/Nurlybek2006">
-<img src="https://img.shields.io/badge/Follow_my_journey-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br><br>
+---
 
 ⭐ **From [Nurlybek](https://github.com/Nurlybek2006)**
 
