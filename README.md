@@ -46,6 +46,24 @@ My main interests are <b>Backend Engineering, Software Architecture, Real-Time S
 
 ---
 
+<h3 align="center">🏆 Hackathon Project</h3>
+
+<div align="center">
+
+### ⚡ EKT Store — HackAlem 2026
+
+**Track 10: Trade · Team Undefined**
+
+Built an AI consultant for **ekt.kz** that searches the catalog, shows product specifications and city-level stock, suggests available alternatives, and adds items to the cart only after explicit user confirmation.
+
+**Stack:** React · TypeScript · Vite · Node.js · Express.js · PostgreSQL · Prisma
+
+[View Project →](https://github.com/Nurlybek2006/Hackathon)
+
+</div>
+
+---
+
 <h3 align="center">🛠️ Tech Stack</h3>
 
 <h4 align="center">💻 Languages</h4>
@@ -195,6 +213,8 @@ Exploring game development as a creative direction alongside software engineerin
 </td>
 </tr>
 </table>
+
+</div>
 
 </div>
 
