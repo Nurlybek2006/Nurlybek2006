@@ -24,7 +24,7 @@
 
 <div align="left">
 
-### Hi, I'm Nurlybek 👋
+### Hi, I'm Nurlybek👋
 
 </div>
 <p align="left">
