@@ -3,7 +3,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2800&pause=900&color=58A6FF&center=true&vCenter=true&width=1100&height=70&lines=Hi+%F0%9F%91%8B%2C+I'm+Nurlybek;Backend+%26+Full-Stack+Developer;Building+APIs%2C+Systems+%26+Real-Time+Apps;Turning+Ideas+Into+Real+Software+%E2%9A%A1;Future+Game+Developer+%F0%9F%8E%AE" alt="Typing SVG" />
 
 <br>
-
 <img src="https://komarev.com/ghpvc/?username=Nurlybek2006&label=PROFILE%20VIEWS&color=238636&style=for-the-badge" alt="Profile Views"/>
 
 <br><br>
@@ -36,7 +35,7 @@ I enjoy building <b>backend systems, REST APIs, databases, authentication, real-
 </p>
 
 <p align="left">
-Currently, I'm improving my skills in <b>Node.js, Express.js, TypeScript, PostgreSQL, Prisma ORM, Redis, BullMQ, Socket.IO, React and Docker</b>.
+Currently, I'm improving my skills in <b>Node.js, Express.js, TypeScript, PostgreSQL, Prisma ORM, Redis, BullMQ, Socket.IO, React and Docker.</b>.
 </p>
 
 <p align="left">
